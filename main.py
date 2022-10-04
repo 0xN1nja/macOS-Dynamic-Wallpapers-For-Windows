@@ -21,10 +21,7 @@ def check_time_and_change_wallpaper():
     elif current_time >= 16 and current_time < 18:
         change_wallpaper("5")
     elif current_time >= 18 and current_time < 20:
-        if datetime.datetime.now().minute >= 30:
-            change_wallpaper("6")
-        else:
-            change_wallpaper("5")
+        change_wallpaper("6")
     else:
         change_wallpaper("7")
 
