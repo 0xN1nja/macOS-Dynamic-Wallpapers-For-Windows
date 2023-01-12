@@ -2,6 +2,9 @@
 ## Automatically Changes Desktop's Wallpaper Based On Time ⏰
 ![wallpaper-changing](https://raw.githubusercontent.com/0xN1nja/macOS-Dynamic-Wallpapers-For-Windows/master/assets/wallpaper_changing.gif)
 # Installation
+## Method 1 (Recommended)
+<a href="https://github.com/0xN1nja/macOS-Dynamic-Wallpapers-For-Windows/releases/download/latest/main.exe">Click Here To Download Executable File</a>
+## Method 2 (Not Recommended)
 ### Install Python ✅
 https://www.python.org/downloads/
 ### Clone This Repository ✅
