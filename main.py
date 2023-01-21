@@ -30,4 +30,4 @@ if __name__ == '__main__':
     check_time_and_change_wallpaper()
     while True:
         check_time_and_change_wallpaper()
-        time.sleep(5)
+        time.sleep(30)
